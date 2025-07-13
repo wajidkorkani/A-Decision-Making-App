@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 
     ```bash
     git clone https://github.com/wajidkorkani/A-Decision-Making-App.git
-    cd A-Decision-Making-App
+    cd A-Decision-Making-App/dma
     ```
 
 2.  **Get dependencies:**
