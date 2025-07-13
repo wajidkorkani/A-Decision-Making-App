@@ -24,10 +24,9 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your_repository_url_here>
-    cd <your_project_directory>
+    git clone https://github.com/wajidkorkani/A-Decision-Making-App.git
+    cd A-Decision-Making-App
     ```
-    (Replace `<your_repository_url_here>` with the actual URL of your Git repository if you have one, and `<your_project_directory>` with your project's name.)
 
 2.  **Get dependencies:**
 
